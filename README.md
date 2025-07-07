@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-aiopinions-ton-access-mcp-badge.png)](https://mseep.ai/app/mcp-mirror-aiopinions-ton-access-mcp)
+
 # TON Access MCP Server
 
 A production-ready Model Context Protocol (MCP) server implementation for the TON blockchain, built on top of the [ton-access](https://github.com/orbs-network/ton-access) library.
